@@ -7,8 +7,11 @@
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="C:\Users\harri\PycharmProjects\Mastering-GUI-Programming-with-Python\requirements.txt" />
+<<<<<<< HEAD
     <option name="removeUnused" value="true" />
     <option name="modifyBaseFiles" value="true" />
+=======
+>>>>>>> origin/chapter_01
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="NUMPY" />
