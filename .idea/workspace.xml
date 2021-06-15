@@ -75,6 +75,34 @@
   <component name="ReaderModeSettings">
     <option name="showWarnings" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="basic_qwidget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mastering-GUI-Programming-with-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter02/qwidget_widgets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter02/qwidget_widgets/basic_qwidget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.basic_qwidget" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\harri\AppData\Roaming\Subversion</configuration>
@@ -94,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623722537113</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(Chapter01.my_qt_template): create Qt template&#10;&#10;Create Qt application template I can use for future projects.&#10;&#10;Harrison Strang">
+      <created>1623722997466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623722997466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -111,7 +146,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/chapter_01" />
+                        <option value="origin/chapter_02" />
                       </list>
                     </value>
                   </entry>
@@ -130,7 +165,8 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
     <MESSAGE value="XML Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="XML Updates" />
+    <MESSAGE value="feat(Chapter01.my_qt_template): create Qt template&#10;&#10;Create Qt application template I can use for future projects.&#10;&#10;Harrison Strang" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(Chapter01.my_qt_template): create Qt template&#10;&#10;Create Qt application template I can use for future projects.&#10;&#10;Harrison Strang" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
